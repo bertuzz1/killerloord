@@ -2,7 +2,7 @@
 
 ## tehtävän tehneet:
 - speedyrooster
-- sinun nimesi? ;)
+- fistman69
 
 ## Prerequisites:
 1. Tee GitHub-tili.
