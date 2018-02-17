@@ -1,22 +1,16 @@
 # killerloord
 
 ## tehtävän tehneet:
--
+- speedyrooster
+- sinun nimesi? ;)
 
 ## Prerequisites:
 1. Tee GitHub-tili.
 2. Lataa [git](https://git-scm.com/download/win).
-3. Lataa [nodejs](https://nodejs.org/en/).
 
 Testaa että CLI (Command Line Tool)  on molemmissa käytössä seuraavasti:
 
 Paina Win + R ja kirjoita riville: 
-
-```
-node -v
-```
-
-ja 
 
 ```
 git --version
@@ -33,7 +27,7 @@ Molemmista pitäisi tulla versionumerot komennon jälkeen.
 2. Tämän jälkeen avaa CMD (Win + R ja kirjoita "cmd" ja paina enter).
 Tee kansio sopivaan paikkaan. (esim. "mkdir harjoitus" komento tekee kansion nimeltä harjoitus)
 
-3. Siirry kansioosi komennolla "cd harjoitus". 
+3. Siirry kansioosi esimerkiksi komennolla "cd harjoitus/killerloord". 
 
 4. Kansion sisällä aja komento
 
@@ -114,6 +108,7 @@ Muutokset ovat koskeneet vain omaa repositoryä tässä vaiheessa, tehdään sii
 
 3. Seuraavassa ruudussa paina "Create pull request".
 
+4. VALMIS ;)
 
 
 
