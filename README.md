@@ -8,7 +8,7 @@
 1. Tee GitHub-tili.
 2. Lataa [git](https://git-scm.com/download/win).
 
-Testaa että CLI (Command Line Tool)  on molemmissa käytössä seuraavasti:
+Testaa että CLI (Command Line Tool) on käytössä seuraavasti:
 
 Paina Win + R ja kirjoita riville: 
 
@@ -16,7 +16,7 @@ Paina Win + R ja kirjoita riville:
 git --version
 ```
 
-Molemmista pitäisi tulla versionumerot komennon jälkeen.
+Esiin pitäisi tuolla Git-versionumero. 
 
 ## Kloonataan repository githubista koneelle
 
@@ -27,7 +27,7 @@ Molemmista pitäisi tulla versionumerot komennon jälkeen.
 2. Tämän jälkeen avaa CMD (Win + R ja kirjoita "cmd" ja paina enter).
 Tee kansio sopivaan paikkaan. (esim. "mkdir harjoitus" komento tekee kansion nimeltä harjoitus)
 
-3. Siirry kansioosi esimerkiksi komennolla "cd harjoitus/killerloord". 
+3. Siirry kansioosi esimerkiksi komennolla "cd harjoitus". 
 
 4. Kansion sisällä aja komento
 
@@ -42,6 +42,8 @@ git clone https://github.com/panukettu/killerloord.git
 ```
 
 Tavarat latautuu koneellesi.
+
+5. Siirry repository-kansioon komennolla "cd killerloord"
 
 ## Tehdään oma branchi ettei häslätä master-branchia sekaisin
 
